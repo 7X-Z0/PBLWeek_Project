@@ -39,4 +39,4 @@ public class ChoosingTopic {
         }
     }
 }
-//Code was made by Lorenzo Guzman-Malaga (7X-Z0 Github)
+//Code was made by 7X-Z0 Github
